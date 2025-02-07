@@ -1,0 +1,131 @@
+[
+  {
+    "jobTitle": "Software Engineer",
+    "jobField": "IT",
+    "qualification": [
+      "BSc in Computer Science",
+      "MSc Preferred"
+    ],
+    "experience": "2 years",
+    "certifications": [
+      "AWS Certified Developer"
+    ],
+    "companyName": "Tech Corp",
+    "Location": "Colombo, Sri Lanka",
+    "Onsite/WFH/Hybrid": "Hybrid",
+    "Technologies": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "Skills": [
+      "Problem Solving",
+      "Teamwork"
+    ],
+    "Job description": "Develop and maintain web applications.",
+    "closingDate": "2025-02-28"
+  },
+  {
+    "jobTitle": "Data Analyst",
+    "jobField": "Data Science",
+    "qualification": [
+      "BSc in Statistics",
+      "Certification in Data Analytics"
+    ],
+    "experience": "3 years",
+    "certifications": [
+      "Google Data Analytics"
+    ],
+    "companyName": "Data Solutions Ltd.",
+    "Location": "Remote",
+    "Onsite/WFH/Hybrid": "WFH",
+    "Technologies": [
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "Skills": [
+      "Data Visualization",
+      "Statistical Analysis"
+    ],
+    "Job description": "Analyze and interpret complex data sets.",
+    "closingDate": "2025-03-10"
+  },
+  {
+    "jobTitle": "Cybersecurity Specialist",
+    "jobField": "Cybersecurity",
+    "qualification": [
+      "BSc in Cybersecurity",
+      "CEH Certified"
+    ],
+    "experience": "4 years",
+    "certifications": [
+      "Certified Ethical Hacker (CEH)",
+      "CISSP"
+    ],
+    "companyName": "SecureTech",
+    "Location": "Kandy, Sri Lanka",
+    "Onsite/WFH/Hybrid": "Onsite",
+    "Technologies": [
+      "Network Security",
+      "Penetration Testing",
+      "SIEM"
+    ],
+    "Skills": [
+      "Threat Detection",
+      "Incident Response"
+    ],
+    "Job description": "Monitor and secure enterprise networks from cyber threats.",
+    "closingDate": "2025-04-15"
+  },
+  {
+    "jobTitle": "UI UX ",
+    "jobField": "IT",
+    "qualification": [
+      "BSc in Computer Science"
+    ],
+    "experience": "1 year",
+    "certifications": [],
+    "companyName": "hSenid Mobile Solution",
+    "Location": "Colombo",
+    "OnsiteWFHHybrid": "Onsite",
+    "Technologies": [
+      "React",
+      " Next JS",
+      " Wordpress"
+    ],
+    "Skills": [
+      "TEamwork"
+    ],
+    "jobDescription": "a RND job position",
+    "closingDate": "2025-12-12",
+    "id": "c48cb293-d514-4965-9ad1-a5a9c9e3846d",
+    "summery": "The job is for a UI UX position in IT at hSenid Mobile Solution located in Colombo. The qualifications required are a BSc in Computer Science with 1 year of experience. The job involves working onsite with technologies like React, Next JS, and WordPress, focusing on skills such as teamwork. The job description is for a R&D position, and the closing date for applications is December 12, 2025. No certifications are listed as required for this role.",
+    "applications": []
+  },
+  {
+    "jobTitle": "UI UX ",
+    "jobField": "IT",
+    "qualification": [
+      "BSc in Computer Science"
+    ],
+    "experience": "1 year",
+    "certifications": [],
+    "companyName": "hSenid Mobile Solution",
+    "Location": "Colombo",
+    "OnsiteWFHHybrid": "Onsite",
+    "Technologies": [
+      "React",
+      " Next JS",
+      " Wordpress"
+    ],
+    "Skills": [
+      "TEamwork"
+    ],
+    "jobDescription": "a RND job position",
+    "closingDate": "2025-12-12",
+    "id": "8f1d625d-ec82-4e2d-9d0a-d2c048fc27d8",
+    "summery": "The JSON data describes a job position for \"UI UX\" in the IT field at hSenid Mobile Solution in Colombo. The job requires a BSc in Computer Science with 1 year of experience. The position is onsite, and the technologies involved include React, Next JS, and Wordpress. The required skills for the job include teamwork. The job description is for a research and development position, and the closing date for applications is 12th December 2025.",
+    "applications": []
+  }
+]

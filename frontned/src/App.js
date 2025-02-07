@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
+import AddJob from "./Design/Components/AddJob";
+import ViewJobs from "./Design/Components/ViewJobs";
+import EditJob from "./Design/Components/EditJob";
+import Summary from "./Design/Components/Summary";
+import UploadCV from "./Design/Components/UploadCV";
+import WebSummary from "./Design/Components/WebSummary";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <AddJob />
+      <ViewJobs />
+      {/* <Summary /> */}
+      {/* <UploadCV /> */}
+      {/* <WebSummary /> */}
     </div>
   );
 }
